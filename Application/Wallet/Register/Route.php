@@ -1,6 +1,5 @@
 <?php
 
-
 use Manage\ApplicationManage;
 
 ApplicationManage::$onStartEvent->addEvent(function () {

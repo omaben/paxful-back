@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/inhere/php-validate" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/paxful/core-service" />
+      <path value="$PROJECT_DIR$/vendor/eaglewu/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdic/swoole-auto-restart" />
+      <path value="$PROJECT_DIR$/vendor/flying-panda/php-framework" />
+      <path value="$PROJECT_DIR$/vendor/apache/log4php" />
+    </include_path>
+  </component>
+</project>
