@@ -1,0 +1,22 @@
+mysql:
+  read:
+    host: "127.0.0.1"
+    databaseName: "Steve"
+    port: "3306"
+    userName: "root"
+    password: "root"
+  write:
+    host: "127.0.0.1"
+    database: "Steve"
+    port: "3306"
+    userName: "root"
+    password: "root"
+redis:
+  read:
+    host: "127.0.0.1"
+    port: "6379"
+    auth: ""
+  write:
+    host: "127.0.0.1"
+    port: "6379"
+    auth: ""

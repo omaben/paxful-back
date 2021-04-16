@@ -1,0 +1,39 @@
+{
+  "name": "lottery/service",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "admin",
+      "email": "email@example.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "D:\\github.com\\new.github.com\\php-core-framework"
+    },
+    {
+      "type": "path",
+      "url": "D:\\auto.github.com\\Lottery\\LotteryCoreService"
+    }
+  ],
+  "require": {
+    "flying-panda/php-framework": "dev-master",
+    "lottery/core-service": "dev-master",
+    "apache/log4php": "2.3.0",
+    "inhere/php-validate": "^2.8",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpdic/swoole-auto-restart": "^0.0.1",
+    "eaglewu/swoole-ide-helper": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Application\\": "Application/",
+      "Manage\\": "Manage/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+dataBase:
+  read:
+    host: "184.168.122.58"
+    dataBaseName: "lottery"
+    port: "3306"
+    userName: "lottery"
+    password: "GedwM2r6LhceN7Fh"
+  write:
+    host: "184.168.122.58"
+    dataBaseName: "lottery"
+    port: "3306"
+    userName: "lottery"
+    password: "GedwM2r6LhceN7Fh"

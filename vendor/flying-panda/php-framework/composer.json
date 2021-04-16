@@ -1,0 +1,33 @@
+{
+  "name": "flying-panda/php-framework",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "admin",
+      "email": "email@example.com"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "require": {
+    "apache/log4php": "2.3.0",
+    "ext-json": "*",
+    "inhere/php-validate": "^2.8",
+    "monolog/monolog": "^2.2"
+  },
+  "require-dev": {
+    "phpdic/swoole-auto-restart": "^0.0.1",
+    "eaglewu/swoole-ide-helper": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Libs\\": "libs/",
+      "Manage\\": "manage/"
+    }
+  }
+}
