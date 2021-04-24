@@ -9,12 +9,12 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/inhere/php-validate" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/paxful/core-service" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/eaglewu/swoole-ide-helper" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpdic/swoole-auto-restart" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/flying-panda/php-framework" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/apache/log4php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/lottery/core-service" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

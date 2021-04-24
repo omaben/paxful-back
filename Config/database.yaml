@@ -1,13 +1,13 @@
 dataBase:
   read:
     host: "184.168.122.58"
-    dataBaseName: "lottery"
+    dataBaseName: "paxful"
     port: "3306"
-    userName: "lottery"
-    password: "GedwM2r6LhceN7Fh"
+    userName: "paxful"
+    password: "SSfxxG5RKHNL3nRG"
   write:
     host: "184.168.122.58"
-    dataBaseName: "lottery"
+    dataBaseName: "paxful"
     port: "3306"
-    userName: "lottery"
-    password: "GedwM2r6LhceN7Fh"
+    userName: "paxful"
+    password: "SSfxxG5RKHNL3nRG"
